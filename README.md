@@ -35,13 +35,6 @@ Here are some ideas to get you started:
   <img align="left" alt="Anuj Khadka's Facebook" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/facebook.svg" />
 </a>
 
-<!--
-<a href="https://www.instagram.com/anuj_khadka008/">
-  <img align="left" alt="Anuj Khadka's Instagram" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/instagram.svg" />
-</a>
--->
-
-
 
 **Languages and Tools:**  
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
