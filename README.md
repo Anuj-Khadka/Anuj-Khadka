@@ -22,4 +22,4 @@ Here are some ideas to get you started:
 
 
 My Github Status
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=Anuj-Khadka&&show_icons=true&theme=dark&border_radius=15%" />
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=Anuj-Khadka&&show_icons=true&theme=dark&border_radius=15%&hide_border=true" />
