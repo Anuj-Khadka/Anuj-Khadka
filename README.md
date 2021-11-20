@@ -34,13 +34,15 @@ Here are some ideas to get you started:
 <a href="https://www.facebook.com/">
   <img align="left" alt="Anuj Khadka's Facebook" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/facebook.svg" />
 </a>
-<--
+
+<!--
 <a href="https://www.instagram.com/anuj_khadka008/">
   <img align="left" alt="Anuj Khadka's Instagram" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/instagram.svg" />
 </a>
 -->
 
-<br/>
+<br />
 ___
+
 📈 My Github Status
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=Anuj-Khadka&&show_icons=true&theme=dark&border_radius=15%&hide_border=true" />
