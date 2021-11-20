@@ -15,10 +15,6 @@ Here are some ideas to get you started:
 - 🔭 I’m currently a student.
 - 🌱 I’m currently learning Web Development.
 - 📫 How to reach me: 
-[Linkedin](https://www.linkedin.com/in/anuj-khadka-821b0a210/) 
-[Facebook]()
-[Instagram](https://www.instagram.com/anuj_khadka008/)
-[Twitter](https://twitter.com/Anuj_Khadka008)
 - 😄 Pronouns: He/His
 
 
@@ -35,8 +31,8 @@ Here are some ideas to get you started:
   <img align="left" alt="Anuj Khadka's Facebook" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/facebook.svg" />
 </a>
 
-
--**Languages and Tools:**  
+<br />
+**Languages and Tools:**  
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
