@@ -14,8 +14,12 @@ Here are some ideas to get you started:
 - 🔭 I’m currently a student.
 - 🌱 I’m currently learning Web Development.
 - 📫 How to reach me: 
-- [Linkedin](https://www.linkedin.com/in/anuj-khadka-821b0a210/) 
-- [Facebook]()
-- [Instagram](https://www.instagram.com/anuj_khadka008/)
-- [Twitter](https://twitter.com/Anuj_Khadka008)
+[Linkedin](https://www.linkedin.com/in/anuj-khadka-821b0a210/) 
+[Facebook]()
+[Instagram](https://www.instagram.com/anuj_khadka008/)
+[Twitter](https://twitter.com/Anuj_Khadka008)
 - 😄 Pronouns: He/His
+
+
+[My Github Status]
+(https://github-readme-stats.vercel.app/api?username=Anuj-Khadka&show_icons=true&theme=dark&&border_radius=15%)
