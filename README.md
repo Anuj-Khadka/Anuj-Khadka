@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 
 
 <!--END_SECTION:waka-->
-___
+<br />___
 
 
 <br />
