@@ -24,10 +24,10 @@ Here are some ideas to get you started:
 <a href="https://twitter.com/Anuj_Khadka008">
   <img align="left" alt="Anuj Khadka | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
-<a href="https://www.linkedin.com/in/anuj-khadka-821b0a210/">
+<a href="https://www.linkedin.com/in/anuj-khadka/">
   <img align="left" alt="Anuj Khadka's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-<a href="https://www.facebook.com/">
+<a href="https://www.facebook.com/anujkhadka008">
   <img align="left" alt="Anuj Khadka's Facebook" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/facebook.svg" />
 </a>
 
