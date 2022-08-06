@@ -6,11 +6,6 @@
 
 Here are some ideas to get you started:
 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-
-- ⚡ Fun fact: ...
 -->
 - 🔭 I’m currently a student.
 - 🌱 I’m currently learning Web Development.
@@ -18,32 +13,82 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/His
 
 
-<a href="https://discord.com/">
-  <img align="left" alt="Anuj Khadka's discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
-</a>
-<a href="https://twitter.com/Anuj_Khadka008">
-  <img align="left" alt="Anuj Khadka | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/anuj-khadka/">
-  <img align="left" alt="Anuj Khadka's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-<a href="https://www.facebook.com/anujkhadka008">
-  <img align="left" alt="Anuj Khadka's Facebook" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/facebook.svg" />
-</a>
 
-<br />
-**Languages and Tools:**  
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"></code>
 
+# Languages and Tools:
+<p align="left">
+    <a href="https://linkedin.com/in/anuj-khadka/" target="_blank" rel="noreferrer">
+        <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html&logoColor=white" />
+    </a>
+    <a href="https://twitter.com/Anuj_Khadka008" target="_blank" rel="noreferrer">
+        <img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css&logoColor=blue"
+            alt="python" />
+    </a>
+    <a href="https://www.facebook.com/anujkhadka008" target="_blank" rel="noreferrer"> <img
+            src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white"
+            alt="flutter" />
+    </a>      
+    <a href="https://www.facebook.com/anujkhadka008" target="_blank" rel="noreferrer"> <img
+            src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"
+            alt="python" />
+    </a>   
+    <a href="https://www.facebook.com/anujkhadka008" target="_blank" rel="noreferrer"> <img
+            src="https://img.shields.io/badge/c-A8B9CC?style=for-the-badge&logo=c&logoColor=white"
+            alt="flutter" />
+    </a>
+    <a href="https://www.facebook.com/anujkhadka008" target="_blank" rel="noreferrer"> <img
+            src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white"
+            alt="flutter" />
+    </a>  
+    <a href="https://www.facebook.com/anujkhadka008" target="_blank" rel="noreferrer"> <img
+            src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"
+            alt="flutter" />
+    </a>      
+    <a href="https://www.facebook.com/anujkhadka008" target="_blank" rel="noreferrer"> <img
+            src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"
+            alt="flutter" />
+    </a>   
+    <a href="https://www.facebook.com/anujkhadka008" target="_blank" rel="noreferrer"> <img
+            src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"
+            alt="flutter" />
+    </a>   
+    <a href="https://www.facebook.com/anujkhadka008" target="_blank" rel="noreferrer"> <img
+            src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"
+            alt="flutter" />
+    </a>  
+    <a href="https://www.facebook.com/anujkhadka008" target="_blank" rel="noreferrer"> <img
+            src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"
+            alt="flutter" />
+    </a>  
+
+</p>
 
 <!--END_SECTION:waka-->
 ___
 
+# Let's Connect
+
+<p align="left">
+    <a href="https://linkedin.com/in/anuj-khadka/" target="_blank" rel="noreferrer">
+        <img src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin handle"/>
+    </a>
+    <a href="sendto:anujkhadka008@gmail.com" target="_blank" rel="noreferrer"> 
+      <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
+            alt="gmail" />
+    </a>
+    <a href="https://twitter.com/Anuj_Khadka008" target="_blank" rel="noreferrer">
+        <img src="https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=blue"
+            alt="twitter handle" />
+    </a>
+    <a href="https://www.facebook.com/anujkhadka008" target="_blank" rel="noreferrer"> <img
+            src="https://img.shields.io/badge/facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"
+            alt="facebook handle" />
+    </a> 
+    <a href="sendto:anujkhadka008@gmail.com" target="_blank" rel="noreferrer"> 
+      <img src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
+            alt="instagram handle" />
+    </a>
+</p>
 
 
 📈 My Github Status
