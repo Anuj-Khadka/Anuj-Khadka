@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently a student.
 - 🌱 I’m currently exploring various areas of tech and filmmaking.
-- 📫 How to reach me: [@Anuj-Khadka](mailto:anujkhadka008@gmail.com)
+- 📫 How to reach me: [@anuj-khadka](https://linkedin.com/in/anuj-khadka)
 - 😄 Pronouns: He/His
 
 
@@ -66,7 +66,7 @@
 
 
 
-📈 My Github Status
+# 📈 My Github Status
 <p align="left"> 
 <p>
     <img src="https://github-readme-stats.vercel.app/api?username=Anuj-Khadka&&show_icons=true&theme=dark&border_radius=15%&hide_border=true" />&nbsp;&nbsp;&nbsp
