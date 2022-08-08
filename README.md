@@ -1,14 +1,13 @@
 ### Hi there. I'm Anuj Khadka. 👋
-![](https://visitor-badge.glitch.me/badge?page_id=Anuj-Khadka)
+<!-- ![](https://visitor-badge.glitch.me/badge?page_id=Anuj-Khadka) -->
+<p align="left">
+    <img src="https://komarev.com/ghpvc/?username=Anuj-Khadka&label=Profile%20views&color=0e75b6&style=for-the-badge"
+        alt="Anuj-Khadka" />
+</p>
 
-<!--
-**Anuj-Khadka/Anuj-Khadka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
--->
 - 🔭 I’m currently a student.
-- 🌱 I’m currently learning Web Development.
+- 🌱 I’m currently exploring various areas of tech and filmmaking.
 - 📫 How to reach me: [@Anuj-Khadka](mailto:anujkhadka008@gmail.com)
 - 😄 Pronouns: He/His
 
@@ -63,7 +62,20 @@ Here are some ideas to get you started:
 
 </p>
 
-<!--END_SECTION:waka-->
+
+
+
+
+📈 My Github Status
+<p align="left"> 
+<p>
+    <img src="https://github-readme-stats.vercel.app/api?username=Anuj-Khadka&&show_icons=true&theme=dark&border_radius=15%&hide_border=true" />&nbsp;&nbsp;&nbsp
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Anuj-Khadka&show_icons=true&locale=en&theme=dark&border_radius=15%&hide_border=true"
+        alt="Anuj-Khadka" />
+</p>
+
+
+
 ___
 
 # Let's Connect
@@ -90,6 +102,3 @@ ___
     </a>
 </p>
 
-
-📈 My Github Status
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=Anuj-Khadka&&show_icons=true&theme=dark&border_radius=15%&hide_border=true" />
