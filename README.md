@@ -1,4 +1,4 @@
-### Hi there. I'm Anuj Khadka. 👋
+# Hi there. I'm Anuj Khadka. 👋
 <!-- ![](https://visitor-badge.glitch.me/badge?page_id=Anuj-Khadka) -->
 <p align="left">
     <img src="https://komarev.com/ghpvc/?username=Anuj-Khadka&label=Profile%20views&color=0e75b6&style=for-the-badge"
@@ -57,7 +57,7 @@
     </a>  
     <a href="https://www.facebook.com/anujkhadka008" target="_blank" rel="noreferrer"> <img
             src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"
-            alt="flutter" />
+            alt="mysql" />
     </a>  
 
 </p>
@@ -72,9 +72,19 @@
     <img src="https://github-readme-stats.vercel.app/api?username=Anuj-Khadka&&show_icons=true&theme=dark&border_radius=15%&hide_border=true" />&nbsp;&nbsp;&nbsp
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Anuj-Khadka&show_icons=true&locale=en&theme=dark&border_radius=15%&hide_border=true"
         alt="Anuj-Khadka" />
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Anuj-Khadka&theme=dark&border_radius=15%&hide_border=true" alt="Anuj Khadka" />
 </p>
 
 
+
+---
+# Github Trophies
+<!-- <p align="left">
+    <a href="https://github.com/ryo-ma/github-profile-trophy">
+        <img src="https://github-profile-trophy.vercel.app/?username=Anuj-Khadka&theme=dark&border_radius=15%&hide_border=true" alt="Anuj-Khadka" />
+    </a>
+</p> -->
+[![trophy](https://github-profile-trophy.vercel.app/?username=Anuj-Khadka&theme=onedark&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
 ___
 
