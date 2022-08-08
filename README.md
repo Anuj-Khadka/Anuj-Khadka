@@ -84,7 +84,7 @@
         <img src="https://github-profile-trophy.vercel.app/?username=Anuj-Khadka&theme=dark&border_radius=15%&hide_border=true" alt="Anuj-Khadka" />
     </a>
 </p> -->
-[![trophy](https://github-profile-trophy.vercel.app/?username=Anuj-Khadka&theme=onedark&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Anuj-Khadka&theme=onedark&row=1&no-frame=true&no-bg=true&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 ___
 
