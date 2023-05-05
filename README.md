@@ -27,6 +27,7 @@
             src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white"
             alt="flutter" />
     </a>      
+    <br />
     <a href="https://www.facebook.com/anujkhadka008" target="_blank" rel="noreferrer"> <img
             src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"
             alt="python" />
