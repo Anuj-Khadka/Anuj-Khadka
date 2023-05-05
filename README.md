@@ -75,6 +75,7 @@
         alt="Anuj-Khadka" />
    <!--  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Anuj-Khadka&theme=dark&border_radius=15%&hide_border=true" alt="Anuj Khadka" /> -->
 <!--    <img align="center" src="https://streak-stats.demolab.com/?user=Anuj-Khadka&theme=dark&border_radius=15%&hide_border=true" alt="Anuj Khadka" />  -->
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=anuj-khadka&theme=dark&hide_border=true&border_radius=70"/ >
 </p>
 
 
