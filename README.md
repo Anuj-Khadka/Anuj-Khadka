@@ -69,10 +69,10 @@
             src="https://img.shields.io/badge/Flask-F24E1E?style=for-the-badge&logo=figma&logoColor=white"
             alt="flask" />
     </a>  
-<a href="https://www.facebook.com/anujkhadka008" target="_blank" rel="noreferrer"> <img
+<!-- <a href="https://www.facebook.com/anujkhadka008" target="_blank" rel="noreferrer"> <img
             src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"
             alt="flutter" />
-    </a>  
+    </a>  -->
 </p>
 
 
@@ -87,9 +87,9 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Anuj-Khadka&show_icons=true&locale=en&theme=dark&border_radius=15%&hide_border=true"
         alt="Anuj-Khadka" />
    <img align="center" src="https://streak-stats.demolab.com/?user=Anuj-Khadka&theme=dark&border_radius=15%&hide_border=true" alt="Anuj Khadka" /> 
-<!--
+
 <img src="https://github-readme-streak-stats.herokuapp.com?user=anuj-khadka&theme=dark&hide_border=true&border_radius=70" alt="Anuj-Khadka_streak" />
--->
+
     
 </p>
 
