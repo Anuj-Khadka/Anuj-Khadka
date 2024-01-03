@@ -44,9 +44,9 @@
             src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white"
             alt="flutter" />
    </a>     
-<!--  <a href="https://www.facebook.com/anujkhadka008" target="_blank" rel="noreferrer"> <img
+<a href="https://www.facebook.com/anujkhadka008" target="_blank" rel="noreferrer"> <img
             src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"
-            alt="mysql" /> -->
+            alt="mysql" /> 
     </a>  
     <br />
     <a href="https://www.facebook.com/anujkhadka008" target="_blank" rel="noreferrer"> <img
