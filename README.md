@@ -71,8 +71,10 @@ ___
     </a>
 
 </p>
+<br/>
 
---- 
+___
+
 # 📈 My Github Status
 <div style="display:flex;justify-content:center;flex-direction:row;align-items:flex-start"> 
     <div>
