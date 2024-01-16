@@ -1,11 +1,12 @@
 # Hi there. I'm Anuj Khadka. 👋
-<p align="left">
+<!-- <p align="left">
     <img src="https://komarev.com/ghpvc/?username=Anuj-Khadka&label=Profile%20views&color=0e75b6&style=for-the-badge"
         alt="Anuj-Khadka" />
 </p>
 
+--> 
 
-- 🔭 I’m currently a student.
+- 🔭 I’m currently an undergraduate student.
 - 🌱 I’m currently exploring various areas within web development.
 - 📫 How to reach me: [@anuj-khadka](https://linkedin.com/in/anuj-khadka)
 - 😄 Pronouns: He/His
@@ -91,3 +92,10 @@ ___
 </p>
 
 --> 
+ <a href="https://linkedin.com/in/anuj-khadka/" target="_blank" rel="noreferrer">
+        <img src="./socials/linkedin.svg" alt="linkedin handle"/>
+    </a>
+    <a href="sendto:akhadka2@caldwell.edu" target="_blank" rel="noreferrer"> 
+      <img src="./socials/email.svg"
+            alt="gmail" />
+    </a>
