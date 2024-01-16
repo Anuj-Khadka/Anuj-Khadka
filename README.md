@@ -41,11 +41,11 @@
 
 
 # 📈 My Github Status
-<div style="display:flex;justify-content:center;"> 
+<div style="display:flex;justify-content:center;flex-direction:row"> 
     <div>
         <img src="https://github-readme-stats.vercel.app/api?username=Anuj-Khadka&&show_icons=true&count_private=true&theme=dark&border_radius=15%&hide_border=true" />
   <br/>
-       <img align="center" src="https://streak-stats.demolab.com/?user=Anuj-Khadka&theme=dark&border_radius=5%&hide_border=true" alt="Anuj Khadka" /> 
+       <img align="center" src="https://streak-stats.demolab.com/?user=Anuj-Khadka&theme=dark&border_radius=5%&hide_border=true" alt="Anuj Khadka" width="450px" /> 
     </div>
     <div>
         <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Anuj-Khadka&show_icons=true&locale=en&theme=dark&border_radius=15%&hide_border=true"
@@ -67,7 +67,6 @@
     </a>
 </p> -->
 [![trophy](https://github-profile-trophy.vercel.app/?username=Anuj-Khadka&theme=onedark&row=1&no-frame=true&no-bg=true&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
-
 <br/>
 ___
 
