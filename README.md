@@ -73,29 +73,18 @@ ___
     <a href="https://linkedin.com/in/anuj-khadka/" target="_blank" rel="noreferrer">
         <img src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin handle"/>
     </a>
-    <a href="sendto:anujkhadka008@gmail.com" target="_blank" rel="noreferrer"> 
-      <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
-            alt="gmail" />
-    </a>
-    <a href="https://twitter.com/Anuj_Khadka008" target="_blank" rel="noreferrer">
-        <img src="https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=blue"
-            alt="twitter handle" />
-    </a>
-    <a href="https://www.facebook.com/anujkhadka008" target="_blank" rel="noreferrer"> <img
-            src="https://img.shields.io/badge/facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"
-            alt="facebook handle" />
-    </a> 
-    <a href="sendto:anujkhadka008@gmail.com" target="_blank" rel="noreferrer"> 
-      <img src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
-            alt="instagram handle" />
-    </a>
+   
 </p>
 
 --> 
+<p>
+    
  <a href="https://linkedin.com/in/anuj-khadka/" target="_blank" rel="noreferrer">
-        <img src="./socials/linkedin.svg" alt="linkedin handle"/>
-    </a>
+        <img src="./socials/linkedin.svg" alt="linkedin handle" width="35px" />
+    </a> &nbsp;
     <a href="sendto:akhadka2@caldwell.edu" target="_blank" rel="noreferrer"> 
       <img src="./socials/email.svg"
-            alt="gmail" />
+            alt="gmail" width="35px" />
     </a>
+
+</p>
