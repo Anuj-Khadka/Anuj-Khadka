@@ -1,5 +1,4 @@
 # Hi there. I'm Anuj Khadka. 👋
-<!-- ![](https://visitor-badge.glitch.me/badge?page_id=Anuj-Khadka) -->
 <p align="left">
     <img src="https://komarev.com/ghpvc/?username=Anuj-Khadka&label=Profile%20views&color=0e75b6&style=for-the-badge"
         alt="Anuj-Khadka" />
@@ -7,7 +6,7 @@
 
 
 - 🔭 I’m currently a student.
-- 🌱 I’m currently exploring various areas of tech and filmmaking.
+- 🌱 I’m currently exploring various areas within web development.
 - 📫 How to reach me: [@anuj-khadka](https://linkedin.com/in/anuj-khadka)
 - 😄 Pronouns: He/His
 
@@ -15,65 +14,26 @@
 
 
 # Languages and Tools:
-<p align="left">
-    <a href="https://linkedin.com/in/anuj-khadka/" target="_blank" rel="noreferrer">
-        <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html&logoColor=white" />
-    </a>
-    <a href="https://twitter.com/Anuj_Khadka008" target="_blank" rel="noreferrer">
-        <img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css&logoColor=blue"
-            alt="python" />
-    </a>
-    <a href="https://www.facebook.com/anujkhadka008" target="_blank" rel="noreferrer"> <img
-            src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white"
-            alt="flutter" />
-    </a> 
-    <a href="https://www.facebook.com/anujkhadka008" target="_blank" rel="noreferrer"> <img
-            src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"
-            alt="flutter" />
-    </a>   
-    <br />
-    <a href="https://www.facebook.com/anujkhadka008" target="_blank" rel="noreferrer"> <img
-            src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"
-            alt="python" />
-    </a>   
-    <a href="https://www.facebook.com/anujkhadka008" target="_blank" rel="noreferrer"> <img
-            src="https://img.shields.io/badge/c-A8B9CC?style=for-the-badge&logo=c&logoColor=white"
-            alt="flutter" />
-    </a>
-    <a href="https://www.facebook.com/anujkhadka008" target="_blank" rel="noreferrer"> <img
-            src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white"
-            alt="flutter" />
-   </a>     
-<a href="https://www.facebook.com/anujkhadka008" target="_blank" rel="noreferrer"> <img
-            src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"
-            alt="mysql" /> 
-    </a>  
-    <br />
-    <a href="https://www.facebook.com/anujkhadka008" target="_blank" rel="noreferrer"> <img
-            src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"
-            alt="flutter" />
-    </a>   
-    <a href="https://www.facebook.com/anujkhadka008" target="_blank" rel="noreferrer"> <img
-            src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"
-            alt="flutter" />
-    </a>   
-    <a href="https://www.facebook.com/anujkhadka008" target="_blank" rel="noreferrer"> <img
-            src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"
-            alt="flutter" />
-    </a>  
-    <a href="https://www.facebook.com/anujkhadka008" target="_blank" rel="noreferrer"> <img
-            src="https://img.shields.io/badge/React-F24E1E?style=for-the-badge&logo=figma&logoColor=white"
-            alt="react" />
-    </a>  
-    <a href="https://www.facebook.com/anujkhadka008" target="_blank" rel="noreferrer"> <img
+
+<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
+<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
+<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Sass" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="padding-right:10px;" />
+<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
+<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />
+<img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />
+<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
+<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />
+
+
+<br/>
+<!--     <a href="https://www.facebook.com/anujkhadka008" target="_blank" rel="noreferrer"> <img
             src="https://img.shields.io/badge/Flask-F24E1E?style=for-the-badge&logo=figma&logoColor=white"
             alt="flask" />
-    </a>  
-<!-- <a href="https://www.facebook.com/anujkhadka008" target="_blank" rel="noreferrer"> <img
-            src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"
-            alt="flutter" />
-    </a>  -->
-</p>
+    </a> -->
+
 
 
 
@@ -107,6 +67,7 @@ ___
 
 # Let's Connect
 
+<!-- 
 <p align="left">
     <a href="https://linkedin.com/in/anuj-khadka/" target="_blank" rel="noreferrer">
         <img src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin handle"/>
@@ -129,3 +90,4 @@ ___
     </a>
 </p>
 
+--> 
