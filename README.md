@@ -106,3 +106,10 @@ ___
     </a>
 </p> -->
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=Anuj-Khadka&theme=onedark&row=1&no-frame=true&no-bg=true&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy) -->
+
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
