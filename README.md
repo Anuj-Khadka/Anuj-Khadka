@@ -46,24 +46,11 @@
 </div>
 <br/>
 <br/>
-<!--     <a href="https://www.facebook.com/anujkhadka008" target="_blank" rel="noreferrer"> <img
-            src="https://img.shields.io/badge/Flask-F24E1E?style=for-the-badge&logo=figma&logoColor=white"
-            alt="flask" />
-    </a> -->
 
 ___
 
 # Let's Connect
 
-<!-- 
-<p align="left">
-    <a href="https://linkedin.com/in/anuj-khadka/" target="_blank" rel="noreferrer">
-        <img src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin handle"/>
-    </a>
-   
-</p>
-
---> 
 <p>
     
  <a href="https://linkedin.com/in/anuj-khadka/" target="_blank" rel="noreferrer">
@@ -89,12 +76,7 @@ ___
         <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Anuj-Khadka&show_icons=true&locale=en&theme=dark&border_radius=15%&hide_border=true"
         alt="Anuj-Khadka" />
     </div>
-    <!-- <img src"https://github-readme-stats.vercel.app/api?username=Anuj-Khadka&count_private=true&theme=dark&border_radius=15%&hide_border=true" /> &nbsp;&nbsp;&nbsp; -->
-<!--
-<img src="https://github-readme-streak-stats.herokuapp.com?user=anuj-khadka&theme=dark&hide_border=true&border_radius=70" alt="Anuj-Khadka_streak" />
-
-    -->
-</div>
+ </div>
 
 
 <br/>
