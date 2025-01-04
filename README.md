@@ -73,6 +73,7 @@ ___
         <br/>
       <img align="center" src="https://streak-stats.demolab.com/?user=Anuj-Khadka&theme=dark&border_radius=5%&hide_border=true" alt="Anuj Khadka" width="450px" />
     </div>
+    <br/>
     <div>
         <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Anuj-Khadka&show_icons=true&locale=en&theme=dark&border_radius=15%&hide_border=true"
         alt="Anuj-Khadka" />
