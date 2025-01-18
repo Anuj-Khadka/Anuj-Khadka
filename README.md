@@ -72,6 +72,7 @@ ___
         <img src="https://github-readme-stats.vercel.app/api?username=Anuj-Khadka&&show_icons=true&count_private=true&theme=dark&border_radius=15%&hide_border=true" />
         <br/>
 <!--       <img align="center" src="https://streak-stats.demolab.com/?user=Anuj-Khadka&theme=dark&border_radius=5%&hide_border=true" alt="Anuj Khadka" width="450px" /> -->
+        <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Anuj-Khadka&theme=dark&short_numbers=true" alt="GitHub Streak" /></a>
     </div>
     <br/>
     <div>
