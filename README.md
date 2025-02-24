@@ -6,7 +6,6 @@
     <img src="https://komarev.com/ghpvc/?username=Anuj-Khadka&label=Profile%20views&color=0e75b6&style=for-the-badge"
         alt="Anuj-Khadka" />
 </p>
--->
 
 - 🔭 I’m currently an undergraduate student.
 - 🌱 I’m currently exploring various areas within web development.
@@ -27,16 +26,15 @@
 <img align="left" alt="JavaScript" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
 <img align="left" alt="React" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Redux" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" style="padding-right:10px;" />
-<!-- <img align="left" alt="Node.js" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" /> -->
+<!-- <img align="left" alt="Node.js" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" /> 
 
 <img align="left" alt="Python" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:10px;" />
-<!--
+
 <img align="left" alt="Flask" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" style="padding-right:10px;" />
 
 <img align="left" alt="MongoDB" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />
--->
-<!--
-<img align="left" alt="MySQL" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" /> -->
+
+<img align="left" alt="MySQL" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" /> 
 
 <img align="left" alt="Figma" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Canva" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" style="padding-right:10px;" />
@@ -74,7 +72,7 @@ ___
     <div>
         <img src="https://github-readme-stats.vercel.app/api?username=Anuj-Khadka&&show_icons=true&count_private=true&theme=dark&border_radius=15%&hide_border=true" />
         <br/>
-<!--       <img align="center" src="https://streak-stats.demolab.com/?user=Anuj-Khadka&theme=dark&border_radius=5%&hide_border=true" alt="Anuj Khadka" width="450px" /> -->
+     <img align="center" src="https://streak-stats.demolab.com/?user=Anuj-Khadka&theme=dark&border_radius=5%&hide_border=true" alt="Anuj Khadka" width="450px" /> 
         <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Anuj-Khadka&theme=dark&short_numbers=true" alt="GitHub Streak" /></a>
     </div>
     <br/>
@@ -90,12 +88,12 @@ ___
 
 
 # Github Trophies
-<!-- <p align="left">
+<p align="left">
     <a href="https://github.com/ryo-ma/github-profile-trophy">
         <img src="https://github-profile-trophy.vercel.app/?username=Anuj-Khadka&theme=dark&border_radius=15%&hide_border=true" alt="Anuj-Khadka" />
     </a>
-</p> -->
-<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=Anuj-Khadka&theme=onedark&row=1&no-frame=true&no-bg=true&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy) -->
+</p> 
+[![trophy](https://github-profile-trophy.vercel.app/?username=Anuj-Khadka&theme=onedark&row=1&no-frame=true&no-bg=true&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy) 
 
 
 <picture>
@@ -103,3 +101,5 @@ ___
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
 </picture>
+
+-->
