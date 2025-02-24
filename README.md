@@ -39,10 +39,14 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anuj-khadka&show_icons=true&locale=en" alt="anuj-khadka" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anuj-khadka&" alt="anuj-khadka" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anuj-khadka&show_icons=true&locale=en&theme=dark&border_radius=15%&hide_border=true" alt="anuj-khadka" /></p>
 
 
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
+</picture>
 
 
 
