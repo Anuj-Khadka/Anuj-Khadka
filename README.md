@@ -1,5 +1,5 @@
-# Hi there. I'm Anuj Khadka. 👋
-
+<!-- # Hi there. I'm Anuj Khadka. 👋 
+ -->
 <h1 align="center">Hi 👋, I'm Anuj Khadka</h1>
 <h3 align="center">A passionate frontend developer from USA</h3>
 
