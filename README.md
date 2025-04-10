@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anuj-khadka" alt="anuj-khadka" /></a> </p>
 
-- 🔭 I’m currently working on [BigO-Analyzer](https://marketplace.visualstudio.com/items?itemName=AnujKhadka.bigo-analyzer)
+- 🔭 I’m currently working on Cougar-Express.
 
 - 🌱 I’m currently learning **Power BI**
 
